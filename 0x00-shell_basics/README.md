@@ -1,1 +1,1 @@
-Display current directory contents, including hidden files use the long format
+Display current directory contents with user and group IDs displayed numerically
